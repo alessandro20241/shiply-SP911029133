@@ -3,10 +3,10 @@
     "status": "Waiting for payment",
     "statusClass": "pending",
     "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Germany",
-    "receiver": "Andres Gonzalez Gambrana, Calle Avila 63, 11310 San Roque, Spain",
+    "receiver": "Andres Gonzalez Gambrana, Calle Avila 63, 11310 Cadiz, Spain",
     "price": "48.000 €",
     "description": "Manufacturer: Porsche  <br>Model: 911 Carrera <br> Chassis number: WP0ZZZ91ZES150342 <br> First registration: 09/1983 <br> Mileage: 251.039 km <br> Power: 152 kW (207 PS)<br> Engine capacity: 3.125 cm³<br> <br> The car is fully functional with no accidents recorded.<br> Very well maintained. Fully serviced. <br> German Registration. All papers, service book, and keys are included.",
-    "address": "Andres Gonzalez Gambrana <br> Calle Avila 63 <br> 11310 San Roque <br> Spain <br> Telefon: +34 665153738",
+    "address": "Andres Gonzalez Gambrana <br> Calle Avila 63 <br> 11310 Cadiz <br> Spain <br> Telefon: +34 665153738",
     "documents": [
       {
         "name": "Delivery note",
@@ -38,7 +38,7 @@
     "delivery": {
       "street": "Calle Avila 63",
       "postal_code": "11310",
-      "city": "San Roque",
+      "city": "Cadiz",
       "country": "Spain",
       "lat": "",
       "lng": ""
